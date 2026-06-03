@@ -1,0 +1,21 @@
+{
+  "name": "discord-honeypot-bot",
+  "version": "1.0.0",
+  "description": "Discord honeypot bot with captcha verification",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
+  },
+  "dependencies": {
+    "canvas": "^3.2.3",
+    "discord.js": "^14.15.0",
+    "dotenv": "^16.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
