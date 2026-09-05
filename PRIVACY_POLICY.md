@@ -48,6 +48,4 @@ We may update this policy as the Bot's functionality changes. Material changes w
 ## 9. Contact
 
 For questions about this policy or to request data access/deletion, open an issue at:
-`https://github.com/<your-github-username>/HoneypotDiscordBot/issues`
-
-*(Replace `<your-github-username>` with your actual GitHub username/org once this repo is published.)*
+`https://github.com/yghazala/Honeypotted/issues`

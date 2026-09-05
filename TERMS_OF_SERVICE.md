@@ -49,6 +49,4 @@ Server admins may remove the Bot from their Server at any time. We reserve the r
 ## 10. Contact
 
 Questions about these Terms can be raised by opening an issue at:
-`https://github.com/<your-github-username>/HoneypotDiscordBot/issues`
-
-*(Replace `<your-github-username>` with your actual GitHub username/org once this repo is published.)*
+`https://github.com/yghazala/Honeypotted/issues`
