@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Environment — never commit secrets
+.env
+
+# Per-server session & config data
+sessions/
+
+# Compiled native module (canvas)
+*.node
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+*.log
